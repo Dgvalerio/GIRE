@@ -7,10 +7,10 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" type="text/css" href="bootstrap-4.0.0-alpha.4/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap-4.0.0-alpha.5/dist/css/bootstrap.min.css">
     <!-- <link rel="stylesheet" type="text/css" href="bootstrap-3.3.7/dist/css/bootstrap.css"> -->
     <script src="script/jquery-3.1.0.min.js"> </script>
-    <script src="bootstrap-4.0.0-alpha.4/dist/js/bootstrap.min.js"></script>
+    <script src="bootstrap-4.0.0-alpha.5/dist/js/bootstrap.min.js"></script>
     <!-- <script src="bootstrap-3.3.7/dist/js/bootstrap.min.js"></script> -->
     <link rel="stylesheet" type="text/css" href="estilo/01.css">
     <script type="text/javascript" src="script/js.js"> </script>
