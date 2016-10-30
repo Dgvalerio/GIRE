@@ -1,8 +1,12 @@
 @font-face {
     font-family: 'Glyphicons Halflings';
 
-    src: url('../fonts/glyphicons-halflings-regular.eot');
-    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+    src: url('../bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot');
+    src: url('../bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+        url('../bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2') format('woff2'),
+        url('../bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff') format('woff'),
+        url('../bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf') format('truetype'),
+        url('../bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 
 .glyphicon {
@@ -17,9 +21,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.glyphicon-asterisk:before {
-    content: "\002a";
-}
+.glyphicon-asterisk:before { content: "\002a"; }
 .glyphicon-plus:before {
     content: "\002b";
 }
@@ -786,21 +788,57 @@
 .glyphicon-console:before {
     content: "\e254";
 }
-.glyphicon-superscript:before {
-    content: "\e255";
+.glyphicon-superscript:before { content: "\e255"; }
+.glyphicon-subscript:before { content: "\e256"; }
+.glyphicon-menu-left:before { content: "\e257"; }
+.glyphicon-menu-right:before { content: "\e258"; }
+.glyphicon-menu-down:before { content: "\e259"; }
+.glyphicon-menu-up:before { content: "\e260"; }
+.carousel-control .icon-prev,
+.carousel-control .icon-next,
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .glyphicon-chevron-right {
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: -10px;
 }
-.glyphicon-subscript:before {
-    content: "\e256";
+.carousel-control .icon-prev,
+.carousel-control .glyphicon-chevron-left {
+    left: 50%;
+    margin-left: -10px;
 }
-.glyphicon-menu-left:before {
-    content: "\e257";
+.carousel-control .icon-next,
+.carousel-control .glyphicon-chevron-right {
+    right: 50%;
+    margin-right: -10px;
 }
-.glyphicon-menu-right:before {
-    content: "\e258";
-}
-.glyphicon-menu-down:before {
-    content: "\e259";
-}
-.glyphicon-menu-up:before {
-    content: "\e260";
+
+@media screen and (min-width: 768px) {
+    .carousel-control .glyphicon-chevron-left,
+    .carousel-control .glyphicon-chevron-right,
+    .carousel-control .icon-prev,
+    .carousel-control .icon-next {
+        width: 30px;
+        height: 30px;
+        margin-top: -10px;
+        font-size: 30px;
+    }
+    .carousel-control .glyphicon-chevron-left,
+    .carousel-control .icon-prev {
+        margin-left: -10px;
+    }
+    .carousel-control .glyphicon-chevron-right,
+    .carousel-control .icon-next {
+        margin-right: -10px;
+    }
+    .carousel-caption {
+        right: 20%;
+        left: 20%;
+        padding-bottom: 30px;
+    }
+    .carousel-indicators {
+        bottom: 20px;
+    }
 }
