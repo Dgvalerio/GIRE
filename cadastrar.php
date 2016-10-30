@@ -87,7 +87,7 @@
             <div id="sW"> </div>
             <input type="button" id="btnCad" value="Cadastrar" class="btn btn-primary btn-block"> <br/>
             ou <br/> <br/>
-            <input type="button" value="Cancelar" class="btn btn-danger btn-block" onclick="toLoc('logar.php')"> <br/>
+            <input type="button" value="Cancelar" class="btn btn-danger btn-block" onclick="toLoc('index.php')"> <br/>
         </form>
     </section>
     <footer class="col-md-12"> <br/> <p> Outubro de 2016 </p> </footer>
