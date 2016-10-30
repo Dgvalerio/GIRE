@@ -32,10 +32,10 @@
         });
     </script>
 </head>
-<body class="container text-md-center plB0"> <br/>
-<div class="col-md-12 plB5" id="cBar"> </div>
-<div class="col-md-12 plB9 plC0" id="fBar">
-    <header class="col-md-12"> <h1> g.i.r.e.</h1> <br/> </header>
+<body class="container text-md-center plBG0"> <br/>
+<div class="col-md-12 plT5" id="cBar"> </div>
+<div class="col-md-12 bABG9 pl_6" id="fBar">
+    <header class="col-md-12"> <h1> Gire </h1> <br/> </header>
     <section class="col-md-12"> <br/>
         <form action="#" method="post">
             <label for="inpLog"> Login </label> <input name="inpLog" id="inpLog" type="text"     class="form-control"><br/>
