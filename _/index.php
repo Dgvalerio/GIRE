@@ -75,6 +75,7 @@ while ($confere = mysqli_fetch_assoc($result) ) {
     <!-- <script src="bootstrap-3.3.7/dist/js/bootstrap.min.js"></script> -->
     <script type="text/javascript" src="../script/js.js"> </script>
     <!-- Custom styles for this template -->
+    <link href="../bootstrap-4.0.0-alpha.5/docs/examples/carousel/carousel.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../estilo/01.css">
 </head>
 <body>

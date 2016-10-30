@@ -2,393 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a77eb0b7-7e68-44d6-9c64-0d1c2a4fe4df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/-1.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/.hound.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/.htmlhintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_data/browser-bugs.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_data/browser-features.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_data/core-team.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_data/nav.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_data/showcase.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_data/translations.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/ads.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/callout-warning-color-assistive-technologies.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/nav-docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/nav-home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_includes/page-headers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_layouts/docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_layouts/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_layouts/simple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_plugins/bridge.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_plugins/bugify.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_plugins/callout.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_plugins/highlight_alt.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/_plugins/markdown-block.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/about/brand.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/about/history.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/about/license.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/about/team.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/about/translations.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/brand/bootstrap-outline.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/brand/bootstrap-punchout.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/brand/bootstrap-solid.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/css/docs-flexbox.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/css/docs-flexbox.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/css/docs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/css/docs.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/bs-themes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/components.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/devices.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/expo-lyft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/expo-newsweek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/expo-riot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/expo-vogue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/img/sass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/docs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/ie-emulation-modes-warning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/src/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/vendor/anchor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/vendor/clipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/vendor/holder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/vendor/jekyll-search.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/vendor/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/js/vendor/tether.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_ads.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_anchor.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_booticon.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_brand.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_browser-bugs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_callouts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_clipboard-js.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_component-examples.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_content.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_examples.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_featured-sites.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_featurettes.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_masthead.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_page-header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_responsive-tests.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_sidebar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_skiplink.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_syntax.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/_team.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/docs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/assets/scss/flex-grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/browser-bugs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/alerts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/breadcrumb.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/button-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/buttons.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/card.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/carousel.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/collapse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/dropdowns.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/forms.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/input-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/jumbotron.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/list-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/modal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/navbar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/navs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/pagination.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/popovers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/progress.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/scrollspy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/tag.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/tooltips.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/components/utilities.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/content/code.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/content/figures.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/content/images.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/content/reboot.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/content/tables.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/content/typography.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/album/album.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/album/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/blog/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/blog/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/carousel/carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/carousel/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/cover/cover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/cover/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/dashboard/dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/dashboard/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/grid/grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/grid/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/jumbotron/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/jumbotron/jumbotron.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/justified-nav/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/justified-nav/justified-nav.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/narrow-jumbotron/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/narrow-jumbotron/narrow-jumbotron.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/navbar-top-fixed/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/navbar-top-fixed/navbar-top-fixed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/navbar-top/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/navbar-top/navbar-top.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/navbar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/navbar/navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/offcanvas/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/offcanvas/offcanvas.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/offcanvas/offcanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/album.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/blog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/carousel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/dashboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/equal-height-columns.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/grid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/jumbotron-narrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/jumbotron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/justified-nav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/navbar-fixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/navbar-static.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/navbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/non-responsive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/offcanvas.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/sign-in.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/starter-template.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/sticky-footer-navbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/sticky-footer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/screenshots/theme.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/signin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/signin/signin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/starter-template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/starter-template/starter-template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/sticky-footer-navbar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/sticky-footer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/sticky-footer/sticky-footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/tooltip-viewport/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/extend/approach.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/extend/icon-fonts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/extend/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/accessibility.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/best-practices.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/browsers-devices.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/build-tools.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/contents.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/download.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/flexbox.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/introduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/javascript.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/getting-started/options.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/layout/flexbox-grid.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/layout/grid.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/layout/media-object.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/layout/overview.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/layout/responsive-utilities.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/migration.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/docs/search.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/bs-sass-compile/libsass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/bs-sass-compile/sass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/change-version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/gcp-key.json.enc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/npm-shrinkwrap.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/postcss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/grunt/upload-preview.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/alert.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/button.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/carousel.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/collapse.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/dropdown.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/modal.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/popover.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/scrollspy.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/tab.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/tooltip.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/dist/util.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/src/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/phantom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/unit/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/vendor/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/vendor/qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/vendor/qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/vendor/tether.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/alert.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/collapse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/dropdown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/modal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/popover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/scrollspy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/tab.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/js/tests/visual/tooltip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/nuget/MyGet.ps1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/nuget/bootstrap.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/nuget/bootstrap.sass.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/package.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/sache.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/.scss-lint.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_animation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_button-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_card.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_custom-forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_images.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_input-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_responsive-embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_tags.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/bootstrap-flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/bootstrap-grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/bootstrap-reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_breakpoints.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_cards.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_hover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_lists.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_navbar-align.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_pulls.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_reset-filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_tab-focus.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_tag.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_text-hide.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/mixins/_text-truncate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_background.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_display.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_pulls.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_screenreaders.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_spacing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-4.0.0-alpha.4/scss/utilities/_visibility.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/index.php" afterPath="$PROJECT_DIR$/_/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cadastrar.php" afterPath="$PROJECT_DIR$/cadastrar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="GIRE.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -423,21 +38,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="204">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+            <state relative-caret-position="99">
+              <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
               <folding>
                 <element signature="e#1930#2145#0#PHP" expanded="false" />
                 <element signature="e#2408#2568#0#PHP" expanded="false" />
@@ -476,11 +91,11 @@
                 <element signature="n#div#0;n#div#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1477866607668" expanded="false" signature="687:1087" ph="create table... if" />
-                <marker date="1477866607668" expanded="false" signature="1248:1598" ph="create table... if" />
-                <marker date="1477866607668" expanded="true" signature="1748:1794" ph="select * fro... usuario" />
-                <marker date="1477866607668" expanded="true" signature="1962:2048" ph="insert into usuario... " />
-                <marker date="1477866607668" expanded="true" signature="2318:2339" ph="select * fro... girando" />
+                <marker date="1477866735415" expanded="false" signature="687:1087" ph="create table... if" />
+                <marker date="1477866735415" expanded="false" signature="1248:1598" ph="create table... if" />
+                <marker date="1477866735415" expanded="true" signature="1748:1794" ph="select * fro... usuario" />
+                <marker date="1477866735415" expanded="true" signature="1962:2048" ph="insert into usuario... " />
+                <marker date="1477866735415" expanded="true" signature="2318:2339" ph="select * fro... girando" />
               </folding>
             </state>
           </provider>
@@ -727,7 +342,7 @@
       <option name="presentableId" value="Default" />
       <updated>1477782328835</updated>
       <workItem from="1477782337560" duration="12839000" />
-      <workItem from="1477860562713" duration="1508000" />
+      <workItem from="1477860562713" duration="1589000" />
     </task>
     <task id="LOCAL-00001" summary="sábado, 29 de outubro de 2016 (20:10)">
       <created>1477782657578</created>
@@ -764,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477834688128</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sábado, 30 de outubro de 2016 (19:31)">
+      <created>1477866714563</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1477866714563</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14347000" />
+    <option name="totallyTimeSpent" value="14428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -810,7 +432,9 @@
     <MESSAGE value="sábado, 30 de outubro de 2016 (00:09)" />
     <MESSAGE value="sábado, 30 de outubro de 2016 (00:12)" />
     <MESSAGE value="sábado, 30 de outubro de 2016 (10:37)" />
-    <option name="LAST_COMMIT_MESSAGE" value="sábado, 30 de outubro de 2016 (10:37)" />
+    <MESSAGE value="sábado, 30 de outubro de 2016 (19:31)" />
+    <option name="LAST_COMMIT_MESSAGE" value="sábado, 30 de outubro de 2016 (19:31)" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -996,10 +620,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4.0.0-alpha.5/docs/examples/carousel/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65e0b190-79da-4497-bd10-72937af6e005/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+        <state relative-caret-position="99">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
           <folding>
             <element signature="e#1930#2145#0#PHP" expanded="false" />
             <element signature="e#2408#2568#0#PHP" expanded="false" />
@@ -1038,36 +686,12 @@
             <element signature="n#div#0;n#div#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1477866607668" expanded="false" signature="687:1087" ph="create table... if" />
-            <marker date="1477866607668" expanded="false" signature="1248:1598" ph="create table... if" />
-            <marker date="1477866607668" expanded="true" signature="1748:1794" ph="select * fro... usuario" />
-            <marker date="1477866607668" expanded="true" signature="1962:2048" ph="insert into usuario... " />
-            <marker date="1477866607668" expanded="true" signature="2318:2339" ph="select * fro... girando" />
+            <marker date="1477866735415" expanded="false" signature="687:1087" ph="create table... if" />
+            <marker date="1477866735415" expanded="false" signature="1248:1598" ph="create table... if" />
+            <marker date="1477866735415" expanded="true" signature="1748:1794" ph="select * fro... usuario" />
+            <marker date="1477866735415" expanded="true" signature="1962:2048" ph="insert into usuario... " />
+            <marker date="1477866735415" expanded="true" signature="2318:2339" ph="select * fro... girando" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-4.0.0-alpha.5/docs/examples/carousel/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65e0b190-79da-4497-bd10-72937af6e005/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
