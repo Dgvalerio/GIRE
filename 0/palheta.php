@@ -34,7 +34,7 @@
         .plT0 { background-color: #E0F2F1; } .plBG0 { background-color: #ECEFF1; } .plB0 { background-color: #E3F2FD; } .plAB1 { background-color: #AAC8FF; }
 
         .plBG9 { background-color: rgba(038,050,056,1); } .plB9 { background-color: rgba(013,071,161,1); } .plAB9 { background-color: rgba(023,051,255,1); }
-        .plBG8 { background-color: rgba(055,051,079,1); } .plB8 { background-color: rgba(021,101,192,1); } .plAB8 { background-color: rgba(037,081,255,1); }
+        .plBG8 { background-color: rgb(55, 71, 79); }  .plB8 { background-color: rgba(021,101,192,1); }  .plAB8 { background-color: rgba(037,081,255,1); }
         .plBG7 { background-color: rgba(069,090,100,1); } .plB7 { background-color: rgba(025,118,210,1); } .plAB7 { background-color: rgba(041,098,255,1); }
         .plBG6 { background-color: rgba(084,110,122,1); } .plB6 { background-color: rgba(030,136,229,1); } .plAB6 { background-color: rgba(041,105,255,1); }
         .plBG5 { background-color: rgba(096,125,139,1); } .plB5 { background-color: rgba(033,150,243,1); } .plAB5 { background-color: rgba(041,112,255,1); }
@@ -53,6 +53,7 @@
 </head>
 <body>
 <table> <caption> <h1> Palheta </h1> </caption>
+    <tr> <?php for ($i = 0; $i < 10; $i++) { print("<td class='plT$i'> </td>"); } ?> </tr>
     <tr> <?php for ($i = 0; $i < 10; $i++) { print("<td class='plBG$i'> </td>"); } ?> </tr>
     <tr> <?php for ($i = 0; $i < 10; $i++) { print("<td class='plB$i'> </td>"); } ?> </tr>
     <tr> <?php for ($i = 0; $i < 10; $i++) { print("<td class='plAB$i'> </td>"); } ?> </tr>
