@@ -21,6 +21,15 @@
         $(document).keypress(function(e) { if(e.which == 13) $('#log').click(); });
 
         $(document).ready(function() {
+            $('#secNorm').collapse('show');
+            $("#btnEnt").click(function() {
+                $('#secNorm').collapse('hide');
+                $('#secEntrar').collapse('show');
+            });
+            $("#btnVol").click(function() {
+                $('#secNorm').collapse('show');
+                $('#secEntrar').collapse('hide');
+            });
             $("#log").click(function() {
                 var inpLog = $("#inpLog"); var inpLogPost = inpLog.val();
                 var inpSen = $("#inpSen"); var inpSenPost = inpSen.val();
@@ -34,17 +43,27 @@
 </head>
 <body class="container text-md-center plBG0"> <br/>
 <div class="col-md-12 plT5" id="cBar"> </div>
-<div class="col-md-12 bABG9 pl_6" id="fBar">
+<div class="col-md-12 bABG9 pl_55" id="fBar">
     <header class="col-md-12"> <h1> Gire </h1> <br/> </header>
-    <section class="col-md-12"> <br/>
+    <section class="col-md-12 collapse" id="secNorm">
+        <div class="col-md-12">
+            <input type="button" id="verEvt" value="Ver eventos" class="btn btn-primary btn-block" onclick="toLoc('_/index.php')"> <br/>
+        </div>
+        <div class='btn-group col-md-12' role='group'>
+            <input type="button" id="btnCad" value="Cadastrar" class="btn btn-primary col-md-6" onclick="toLoc('cadastrar.php')">
+            <input type="button" id="btnEnt"    value="Entrar"    class="btn btn-primary col-md-6">
+        </div>
+    </section>
+    <section class="col-md-12 collapse" id="secEntrar">
+        <br/>
         <form action="#" method="post">
             <label for="inpLog"> Login </label> <input name="inpLog" id="inpLog" type="text"     class="form-control"><br/>
             <label for="inpSen"> Senha </label> <input name="inpSen" id="inpSen" type="password" class="form-control"><br/><br/>
             <div id="sW"> </div>
             <input type="button" id="log" value="Logar" class="btn btn-primary btn-block"> <br/>
-            ou <br/>
             <br/>
-            <input type="button" id="btnCad" value="Cadastrar" class="btn btn-primary" onclick="toLoc('cadastrar.php')"> <br/>
+            <br/>
+            <input type="button" id="btnVol" value="Voltar" class="btn btn-danger"> <br/>
         </form>
     </section>
     <footer class="col-md-12"> <br/>
