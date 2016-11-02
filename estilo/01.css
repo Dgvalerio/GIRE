@@ -9,20 +9,15 @@
 }
 
 body {
-    background-image: url('../0/01.jpg');
+    background-image: url('../0/02.jpg');
+    background-size: cover;
 }
 
-#cBar {
-    position: fixed;
-    top:    0;
-    left:   0;
-    width: 25%;
-    height: 100%;
-    box-shadow: 0 0 3px black;
+footer {
+    margin: 0;
 }
 
 #fBar {
-    border-radius: 0.25rem;
     padding: 2rem;
 }
 

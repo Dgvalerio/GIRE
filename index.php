@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title> G.I.R.E. </title>
+    <link rel="shortcut icon" href="Icone.ico" type="image/x-icon" />
+    <link rel="icon" href="Icone.ico">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -42,33 +44,37 @@
     </script>
 </head>
 <body class="container text-md-center plBG0"> <br/>
-<div class="col-md-12 plT5" id="cBar"> </div>
-<div class="col-md-12 bABG9 pl_55" id="fBar">
-    <header class="col-md-12"> <h1> Gire </h1> <br/> </header>
-    <section class="col-md-12 collapse" id="secNorm">
-        <div class="col-md-12">
-            <input type="button" id="verEvt" value="Ver eventos" class="btn btn-primary btn-block" onclick="toLoc('_/index.php')"> <br/>
+    <header class="col-md-12 plT5"> <br/> <img src="0/Logo_Nome_Branco.png" alt="GIRE" height="110px"> <br/> <br/> </header>
+
+    <div class="col-md-12 plT5 p-0">
+        <div class="col-md-12 pl_55" id="fBar">
+        <section class="col-md-12 collapse" id="secNorm">
+            <div class="col-md-12">
+                <input type="button" id="verEvt" value="Ver eventos" class="btn btn-primary btn-block" onclick="toLoc('_/index.php')"> <br/>
+            </div>
+            <div class='btn-group col-md-12' role='group'>
+                <input type="button" id="btnCad" value="Cadastrar" class="btn btn-primary col-md-6" onclick="toLoc('cadastrar.php')">
+                <input type="button" id="btnEnt"    value="Entrar"    class="btn btn-primary col-md-6">
+            </div>
+        </section>
+        <section class="col-md-12 collapse" id="secEntrar">
+            <br/>
+            <form action="#" method="post">
+                <label for="inpLog"> Login </label> <input name="inpLog" id="inpLog" type="text"     class="form-control"><br/>
+                <label for="inpSen"> Senha </label> <input name="inpSen" id="inpSen" type="password" class="form-control"><br/><br/>
+                <div id="sW"> </div>
+                <input type="button" id="log" value="Logar" class="btn btn-primary btn-block"> <br/>
+                <br/>
+                <br/>
+                <input type="button" id="btnVol" value="Voltar" class="btn btn-danger"> <br/>
+            </form>
+        </section>
         </div>
-        <div class='btn-group col-md-12' role='group'>
-            <input type="button" id="btnCad" value="Cadastrar" class="btn btn-primary col-md-6" onclick="toLoc('cadastrar.php')">
-            <input type="button" id="btnEnt"    value="Entrar"    class="btn btn-primary col-md-6">
-        </div>
-    </section>
-    <section class="col-md-12 collapse" id="secEntrar">
+    </div>
+
+    <footer class="col-md-12 plT5"> <br/>
+        <img src="0/Logo_IF_Branco.png" alt="IF" height="110px"> <br/>
         <br/>
-        <form action="#" method="post">
-            <label for="inpLog"> Login </label> <input name="inpLog" id="inpLog" type="text"     class="form-control"><br/>
-            <label for="inpSen"> Senha </label> <input name="inpSen" id="inpSen" type="password" class="form-control"><br/><br/>
-            <div id="sW"> </div>
-            <input type="button" id="log" value="Logar" class="btn btn-primary btn-block"> <br/>
-            <br/>
-            <br/>
-            <input type="button" id="btnVol" value="Voltar" class="btn btn-danger"> <br/>
-        </form>
-    </section>
-    <footer class="col-md-12"> <br/>
-        <p> Outubro de 2016 </p>
     </footer>
-</div>
 </body>
 </html>
