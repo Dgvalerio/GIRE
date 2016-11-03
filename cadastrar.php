@@ -58,9 +58,10 @@
     </script>
 </head>
 <body class="container text-md-center plBG0"> <br/>
-<div class="col-md-12 plT5" id="cBar"> </div>
-<div class="col-md-12 bABG9 pl_6" id="fBar">
-    <header class="col-md-12"> <h1> Gire </h1> <br/> </header>
+<header class="col-md-12 plT5"> <br/> <img src="0/Logo_Nome_Branco.png" alt="GIRE" height="110px"> <br/> <br/> </header>
+
+<div class="col-md-12 plT5 p-0">
+    <div class="col-md-12 pl_55" id="fBar">
     <section class="col-md-12"> <br/>
         <form action="#" method="post">
             <label for="inpNom"> Nome Completo          </label> <input name="inpNom" id="inpNom" type="text"       class="form-control"><br/>
@@ -90,7 +91,12 @@
             <input type="button" value="Cancelar" class="btn btn-danger btn-block" onclick="toLoc('index.php')"> <br/>
         </form>
     </section>
-    <footer class="col-md-12"> <br/> <p> Outubro de 2016 </p> </footer>
+    </div>
 </div>
+
+<footer class="col-md-12 plT5"> <br/>
+    <img src="0/Logo_IF_Branco.png" alt="IF" height="110px"> <br/>
+    <br/>
+</footer>
 </body>
 </html>

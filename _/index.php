@@ -71,42 +71,13 @@
 
 <div class="container marketing">
 
-    <div class="row" align="center">
-        <div class="col-lg-6">
-            <img class="img-circle" src="../0/24845.jpg" alt="Imagem do evento 1." width="140" height="140">
-            <h1>Evento 1.</h1>
-            <p>Descrição do evento 1.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Ver</a></p>
-        </div>
-        <div class="col-lg-6">
-            <img class="img-circle" src="../0/24903.jpg" alt="Imagem do evento 2." width="140" height="140">
-            <h1>Evento 2.</h1>
-            <p>Descrição do evento 2.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Ver</a></p>
-        </div>
-    </div>
-
-    <hr class="featurette-divider">
-
-    <div class="row featurette">
-        <div class="col-md-7">
-            <h2 class="featurette-heading">Evento 1. <span class="text-muted">Frase de efeito 1.</span></h2>
-            <p class="lead">Descrição do evento 1.</p>
-        </div>
-        <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="../0/24845.jpg"  src="../0/24845.jpg"  alt="Imagem do evento 1." >
-        </div>
-    </div>
-
-    <hr class="featurette-divider">
-
     <div class="row featurette">
         <div class="col-md-7 push-md-5">
-            <h2 class="featurette-heading">Evento 2. <span class="text-muted">Frase de efeito 2.</span></h2>
-            <p class="lead">Descrição do evento 2.</p>
+            <h2 class="featurette-heading">Evento. <span class="text-muted">Frase de efeito.</span></h2>
+            <p class="lead">Descrição do evento.</p>
         </div>
         <div class="col-md-5 pull-md-7">
-            <img class="featurette-image img-fluid mx-auto" data-src="../0/24903.jpg"  src="../0/24903.jpg"  alt="Imagem do evento 1." >
+            <img class="featurette-image img-fluid mx-auto" data-src="../0/24909.jpg"  src="../0/24909.jpg"  alt="Imagem do evento 1." >
         </div>
     </div>
 

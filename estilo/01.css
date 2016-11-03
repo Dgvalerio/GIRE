@@ -13,13 +13,9 @@ body {
     background-size: cover;
 }
 
-footer {
-    margin: 0;
-}
+footer { margin: 0 0 10px 0; }
 
-#fBar {
-    padding: 2rem;
-}
+#fBar { padding: 2rem; }
 
 #intf {
     background-color: white;
