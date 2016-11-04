@@ -3,7 +3,6 @@
 * {
     -webkit-transition: all 0.8s;
     -moz-transition:    all 0.8s ;
-    -ms-transition:     all 0.8s ;
     -o-transition:      all 0.8s ;
     transition:         all 0.8s ;
 }
@@ -22,8 +21,27 @@ footer { margin: 0 0 10px 0; }
     height: 25%;
 }
 
+.toCircle {
+    height: 20rem;
+    width:  20rem;
+    border-radius: 50%;
+}
+
+.logoEvento {
+    height: 5rem;
+    width:  5rem;
+}
+
+.imgBio {
+    height: 15rem;
+    width:  15rem;
+}
+
+.toB { font-weight: bold; }
+
 .plC9 { color: #000; }
 .plC0 { color: #fff; }
+.plC0 a { color: #fff; }
 
 .pl_9 { background-color: rgba(255,255,255,.2); }
 .pl_8 { background-color: rgba(255,255,255,.4); }
@@ -58,6 +76,5 @@ footer { margin: 0 0 10px 0; }
 .bAT2 { border: 1px solid #80CBC4; } .bABG2 { border: 1px solid #B0BEC5; } .bAB2 { border: 1px solid #90CAF9; } .bAAB2 { border: 1px solid #448AFF; }
 .bAT1 { border: 1px solid #B2DFDB; } .bABG1 { border: 1px solid #CFD8DC; } .bAB1 { border: 1px solid #BBDEFB; } .bAAB1 { border: 1px solid #82B1FF; }
 .bAT0 { border: 1px solid #E0F2F1; } .bABG0 { border: 1px solid #ECEFF1; } .bAB0 { border: 1px solid #E3F2FD; } .bAAB1 { border: 1px solid #AAC8FF; }
-
 
 .plIfR { background-color: #FF1907; } .plIfG { background-color: #3EB123; }

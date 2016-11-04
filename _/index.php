@@ -21,13 +21,10 @@
 </head>
 <body>
 
-<div class="col-md-12 plT5" id="cBar"> </div>
 <div class="col-md-12 pl_55 p-0">
-
 <nav class="navbar navbar-static-top navbar-light bg-faded">
-    <a class="navbar-brand">Gire</a>
+    <a class="navbar-brand" href="index.php"> <img src="../0/Logo.png" alt="GIRE" height="30rem"> </a>
     <ul class="nav navbar-nav">
-        <li class="nav-item active">            <a class="nav-link" href="#">       Início  </a> </li>
         <li class="nav-item float-md-right">    <a class="nav-link" href="ext.php"> Sair    </a> </li>
     </ul>
 </nav>
@@ -44,7 +41,7 @@
                 <div class="carousel-caption text-xs-left">
                     <h1>Evento 1.</h1>
                     <p>Descrição do evento 1.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Ver</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="curso.php" role="button">Ver</a></p>
                 </div>
             </div>
         </div>
@@ -54,7 +51,7 @@
                 <div class="carousel-caption">
                     <h1>Evento 2.</h1>
                     <p>Descrição do evento 2.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Ver</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="curso.php" role="button">Ver</a></p>
                 </div>
             </div>
         </div>
@@ -83,14 +80,13 @@
 
     <hr class="featurette-divider">
 
-    <footer>
-        <p class="float-xs-right"><a href="#">Voltar ao topo</a></p>
-        <p> Outubro de 2016 </p>
-    </footer>
-
 </div>
 
 </div>
+<footer class="col-md-12 plT5 text-md-center plC0"> <br/>
+    <img src="../0/Logo_IF_Branco.png" alt="IF" height="110px"> <br/>
+    <br/> <p class="float-xs-left"> Outubro de 2016 </p> <p class="float-xs-right"><a href="#">Voltar ao topo</a></p>
+</footer>
 
 </body>
 </html>
