@@ -22,8 +22,8 @@
 <body>
 
 <div class="col-md-12 pl_55 p-0">
-<nav class="navbar navbar-static-top navbar-light bg-faded">
-    <a class="navbar-brand" href="index.php"> <img src="../0/Logo.png" alt="GIRE" height="30rem"> </a>
+<nav class="navbar navbar-static-top navbar-light plT5 bdR0 plC0">
+    <a class="navbar-brand" href="index.php"> <img src="../0/Logo_Branco.png" alt="GIRE" height="30rem"> </a>
     <ul class="nav navbar-nav">
         <li class="nav-item float-md-right">    <a class="nav-link" href="ext.php"> Sair    </a> </li>
     </ul>
@@ -41,7 +41,7 @@
                 <div class="carousel-caption text-xs-left">
                     <h1>Evento 1.</h1>
                     <p>Descrição do evento 1.</p>
-                    <p><a class="btn btn-lg btn-primary" href="curso.php" role="button">Ver</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="evento.php" role="button">Ver</a></p>
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@
                 <div class="carousel-caption">
                     <h1>Evento 2.</h1>
                     <p>Descrição do evento 2.</p>
-                    <p><a class="btn btn-lg btn-primary" href="curso.php" role="button">Ver</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="evento.php" role="button">Ver</a></p>
                 </div>
             </div>
         </div>
@@ -69,12 +69,39 @@
 <div class="container marketing">
 
     <div class="row featurette">
-        <div class="col-md-7 push-md-5">
-            <h2 class="featurette-heading">Evento. <span class="text-muted">Frase de efeito.</span></h2>
-            <p class="lead">Descrição do evento.</p>
-        </div>
-        <div class="col-md-5 pull-md-7">
-            <img class="featurette-image img-fluid mx-auto" data-src="../0/24909.jpg"  src="../0/24909.jpg"  alt="Imagem do evento 1." >
+        <div class="col-md-12">
+            <h2 class="featurette-heading">SOCORRO!!! <span class="text-muted">Falta tudo isso:</span></h2>
+                <ol class="lead">
+                    <li>Criar páginas do administrador;
+                        <ol>
+                            <li>“Index” (Escolher uma das duas páginas);</li>
+                            <li>Gestão de registros;</li>
+                            <li>Gestão de cursos;</li>
+                        </ol>
+                    </li>
+                    <li>Testar página dos cursos (colocar registros no BD);</li>
+                    <li>Lógica do botão de se inscrever;</li>
+                    <li>Terminar verificações da página de cadastro;</li>
+                    <li>Página do Evento (com as miniaturas dos cursos);</li>
+                    <li>Lógicas da geração de listas nas administrativas;</li>
+                </ol>
+
+            <h3 class="featurette-heading">Dados que precisam ser coletados:</h3>
+            <ol class="lead">
+                <li>Logo do evento;</li>
+                <li>Descrição do evento;</li>
+                <li>Nome dos cursos;</li>
+                <li>Descrição curta dos cursos;</li>
+                <li>Descrição longa dos cursos;</li>
+                <li>Carga horária dos cursos;</li>
+                <li>Quem ministra os cursos;
+                    <ol>
+                        <li>Foto;</li>
+                        <li>Biografia curta;</li>
+                    </ol>
+                </li>
+            </ol>
+
         </div>
     </div>
 

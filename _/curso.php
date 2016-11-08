@@ -22,11 +22,11 @@
 <body>
 
 <div class="col-md-12 pl_55 p-0">
-    <nav class="navbar navbar-static-top navbar-light bg-faded">
-        <a class="navbar-brand" href="index.php"> <img src="../0/Logo.png" alt="GIRE" height="30rem"> </a>
+    <nav class="navbar navbar-static-top navbar-light plT5 bdR0 plC0">
+        <a class="navbar-brand" href="index.php"> <img src="../0/Logo_Branco.png" alt="GIRE" height="30rem"> </a>
         <ul class="nav navbar-nav">
             <li class="nav-item active">            <a class="nav-link"> Nome do Evento  </a> </li>
-            <li class="nav-item float-md-right">    <a class="nav-link" href="ext.php"> Sair            </a> </li>
+            <li class="nav-item float-md-right">    <a class="nav-link" href="ext.php"> Sair    </a> </li>
         </ul>
     </nav>
 <br/>

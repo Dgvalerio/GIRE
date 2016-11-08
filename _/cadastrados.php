@@ -23,31 +23,32 @@
 <body>
 
 <div class="col-md-12 pl_55 p-0">
-    <nav class="navbar navbar-static-top navbar-light bg-faded">
-        <a class="navbar-brand" href="index.php"> <img src="../0/Logo.png" alt="GIRE" height="30rem"> </a>
+    <nav class="navbar navbar-static-top navbar-light plT5 bdR0 plC0">
+        <a class="navbar-brand" href="index.php"> <img src="../0/Logo_Branco.png" alt="GIRE" height="30rem"> </a>
         <ul class="nav navbar-nav">
-            <li class="nav-item float-md-right">    <a class="nav-link" href="ext.php"> Sair            </a> </li>
+            <li class="nav-item">    <a class="nav-link" href=""> Administrar    </a> </li>
+            <li class="nav-item float-md-right">    <a class="nav-link" href="ext.php"> Sair    </a> </li>
         </ul>
     </nav>
     <br/>
-    <div class="row col-md-12">
-        <h1 class="h1 text-md-center">Curso</h1><br/>
+    <div class="container">
+        <h1 class="h1 text-md-center">Usuários cadastrados</h1><br/>
 
   <?php header("Content-Type: text/html; charset=UTF-8",true);
 
                 $result = mysqli_query($link, "select * from usuario");
                 if (!$result) { die('Invalid query: ' . mysqli_connect_error()); }
 
-                echo"<table class='table table-striped'>";
-echo"<thead class='thead-inverse'> <tr> 
-<th class='col-md-1'>#</th> 
-<th class='col-md-3'>Usuário</th> 
-<th class='col-md-3'>Nome de usuário</th> 
-<th class='col-md-3'>Senha</th> 
-<th class='col-md-2 cntr'>Apagar</th>
+                echo"<table class='table'>";
+echo"<thead class='thead'> <tr> 
+<th class='col-md-1 bd0'>#</th> 
+<th class='col-md-3 bd0'>Usuário</th> 
+<th class='col-md-3 bd0'>Nome de usuário</th> 
+<th class='col-md-3 bd0'>Senha</th> 
+<th class='col-md-2 bd0'>Apagar</th>
 </tr> </thead> <tbody>";
                 while ($exibe = mysqli_fetch_assoc($result) ) { // Obtém os dados da linha atual e avança para o próximo registro
-echo"<tr> 
+echo"<tr class='bd13 bdCT5'> 
 <th class='col-md-1' scope='row'>$exibe[id]</th> 
 <td class='col-md-3'>$exibe[usuario]</td> 
 <td class='col-md-3'>$exibe[nome]</td> 

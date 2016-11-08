@@ -10,20 +10,29 @@ $db_selected = mysqli_select_db($link, 'gire');
 if (!$db_selected) { die ('Não é possível utilizar o banco de dados: ' . mysqli_error($link));  } else {echo ''; }
 
 # Criação da Tabela Usuários
-$sql = '
+$sql = "
     create table if not exists usuario (
         id      int not null auto_increment, 
         nome    varchar(100), 
-        nMat    varchar(15), 
-        curso   varchar(20), 
-        ano     year, 
-        turno   varchar(30), 
-        email   varchar(30), 
-        cpf     varchar(30), 
+        nMat    int, 
+        curso   enum('I','ED','EL') NOT NULL,
+        ano     int, 
+        turno   enum('M','V') NOT NULL, 
+        email   varchar(60), 
+        cpf     int, 
         usuario varchar(30),
         senha   varchar(30),
+        
+        
+        
+        
+        cursoofic int(11) DEFAULT NULL,
         primary key(id)
-    ) default charset = utf8;';
+        UNIQUE KEY nMat (`mat`),
+        UNIQUE KEY `cpf` (`cpf`),
+        UNIQUE KEY `email` (`email`),
+        KEY `cursoofic` (`cursoofic`)
+    ) default charset = utf8;";
 if (mysqli_query($link, $sql)) { } else { echo 'Erro ao criar a tabela Usuário: ' . mysqli_error($link) . "\n"; }
 
 # Criação da Tabela Logins
@@ -38,7 +47,7 @@ $sql = '
         primary key(id), 
         foreign key (userid) 
         references usuario(id) 
-        ) default charset = utf8;';
+      ) default charset = utf8;';
 if (mysqli_query($link, $sql)) { } else { echo 'Erro ao criar a tabela Girando: ' . mysqli_error($link) . "\n"; }
 
 /*
